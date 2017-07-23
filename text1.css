@@ -1,0 +1,161 @@
+.title1{
+	font-family: "微软雅黑";
+    font-size:25px;
+    margin-top: -10px;
+}
+
+.photo1{
+	width: 332px;
+  	height: 450px;
+    margin-top: 7px;
+}
+
+.hui{
+	width: 330px;
+	height: 81px;
+	background-color: #000000;
+	margin-top: -85px;
+	position: absolute;
+	z-index: 1;
+	opacity: 0.75;
+}
+
+.title2{
+	color: #ffffff;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	margin-top: 18px;
+	margin-left: 8px;
+}
+
+.title201{
+	color: #999999;
+	font-family: "微软雅黑";
+	font-size: 13px;
+    margin-top: 10px;
+	margin-left: 8px;
+}
+
+.title3{
+		font-size: 18px;
+	font-family: "微软雅黑";
+	margin-left: 347px;
+	margin-top: -450px;
+}
+
+.word1{
+	font-size: 12px;
+	font-family: "微软雅黑";
+	margin-left: 345px;
+	margin-top: 7px;
+	color: #999999;
+	letter-spacing: 0.1px;
+}
+
+.word2{
+	width: 125px;
+	margin-left: 348px;
+	margin-top: 40px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+}
+
+.hui2{
+	width:3px;
+    height: 17px;
+    color: #999999;
+    margin-top: -18px;
+    margin-left: 530px;
+ 
+}
+
+.word3{
+	width: 125px;
+	margin-top: -20px;
+	margin-left: 550px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+}
+
+.title4{
+	font-size: 18px;
+	font-family: "微软雅黑";
+	margin-left: 348px;
+	margin-top: 20px;
+}
+
+.zuobian{
+	font-size: 15px;
+	font-family: "宋体";
+	margin-top: 11px;
+	margin-left: 340px;
+	line-height: 25px;
+}
+
+.youbian{
+	font-size: 15px;
+	font-family: "宋体";
+	margin-left: 530px;
+	margin-top: -75px;
+	line-height: 25px;
+}
+
+.photo2{
+	width: 141px;
+	height: 141px;
+	margin-top: 16px;
+	margin-left: 350px;
+}
+
+.photo3{
+	width: 141px;
+	height: 141px;
+	margin-top: -16px;
+	margin-left: 60px;
+}
+
+.zhu1{
+	font-size: 15px;
+	margin-left: 375px;
+	margin-top: 5px;
+}
+
+.zhu2{
+	font-size: 15px;
+	margin-top: -17px;
+	margin-left: 560px;
+}
+
+.title5{
+	font-family: "微软雅黑";
+    font-size:25px;
+    margin-top: 17px;
+    margin-left: 0px;
+}
+
+.photo4{
+	height: 182px;
+	width: 330px;
+	margin-top: 18px;
+    
+}
+
+.title6{
+	font-size: 18px;
+	font-family: "微软雅黑";
+    margin-top: -182px;
+    margin-left: 345px;
+}
+
+.xiaozi{
+	font-size: 14px;
+	margin-left: 345px;
+    color: #333333;
+    list-style-type: 15px;
+}
+
+.top{
+	color: #999999;
+	margin-left: 630px;
+	margin-top: -715px;
+}
